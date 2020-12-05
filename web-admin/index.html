@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Free HTML5 Website Template" />
+  <title> Free-Admin </title>
+  <link rel="ico" href="./favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+<body style="background: url('static/images/bg_top.png') repeat fixed bottom;">
+
+  <div class="container">
+
+    <span class="title">Free-Admin</span>
+
+    <div class="textWrapper">
+      <span>isOwner:</span>
+      <span class="content isOwner"></span>
+    </div>
+    <div class="textWrapper">
+      <span>isInsuranceOwner:</span>
+      <span class="content isOwnerIns"></span>
+    </div>
+    <div class="textWrapper">
+      <span>合约余额:</span>
+      <span class="content balance">0</span>
+      <span class="content">ETH</span>
+    </div>
+    <div class="textWrapper">
+      <span>保险箱余额:</span>
+      <span class="content balanceIns">0</span>
+      <span class="content">ETH</span>
+    </div>
+
+    <div class="btnWrapper">
+      <div class="button dividends">全球分红按钮</div>
+      <div class="button closeStatus">暂时关闭合约</div>
+      <div class="button openStatus">取消关闭合约</div>
+      <div class="button destroyContract">销毁主合约</div>
+      <div class="button destroyContractIns">销毁保险箱</div>
+    </div>
+  </div>
+
+  <div class="alert-danger" role="alert" style="display: none;">
+    For Chrome, Firefox please download metamask or mobile phone download
+    imtokenwallet
+  </div>
+
+  <!-- jQuery -->
+  <script src="static/js/jquery.min.js"></script>
+  <!-- jQuery Easing -->
+  <script src="static/js/jquery.easing.1.3.js"></script>
+  <!-- Bootstrap -->
+  <script src="static/js/bootstrap.min.js"></script>
+  <!-- Waypoints -->
+  <script src="static/js/jquery.waypoints.min.js"></script>
+  <!-- i18next translate -->
+  <script src="static/js/jquery-i18next.min.js" type="text/javascript" charset="utf-8"></script>
+  <!-- web3 -->
+  <script src="static/js/web3.min.js"></script>
+  <!-- Main -->
+  <script src="static/js/main.js"></script>
+  <script src="static/js/loadingoverlay.js"></script>
+</body>
+
+</html>

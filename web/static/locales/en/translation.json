@@ -1,0 +1,89 @@
+{
+	"ban": {
+		"title": "Free",
+		"time": "Starting at 2020.09.25"
+	},
+	"count": {
+		"title": "Global Management Award",
+		"text": "The global management bonus bonus pool is open 24 hours a day. The bonus of the prize pool is 16% of the total amount of the day. The bonus of each level is 1/4 of the prize pool. The bonus of each level is divided equally by all users of that level. A user can merge multiple levels if the conditions are met."
+	},
+	"tab": {
+		"tab1": "Participate",
+		"tab2": "Ticket",
+		"tab3": "Invite",
+		"tab4": "Rule"
+	},
+	"tabText": {
+		"text1": "Current burning ratio",
+		"text2": "Purchase admission tickets",
+		"text31": "My referee is:",
+		"text32": "My direct push quantity:",
+		"text33": "My invitation link:",
+		"text4": "<li>An account can only accept one investment before exiting, and can continue to invest after exiting.</li><li>The static dividend is 0.3% per day.</li><li>If everything goes out, 1-10 is 3 times the investment amount, 11-30 is 4 times the investment amount, and more than 31 is 5 times the investment amount.</li><li>Dynamic awards directly push several people to take several generations.</li><li>Dynamic recommendations are in accordance with: 10%-3%-3%-3%...a total of six generations, get dynamic rewards, and withdraw instantly.</li><li>The management prize will be drawn after the designated time, and the prize will arrive directly.</li><li>If no one meets the management bonus conditions, the bonus will be lost automatically.</li>"
+	},
+	"statistics": {
+		"title": "Statistical data",
+		"note": "Join now",
+		"tab1": "My income",
+		"tab2": "statistics",
+		"tab3": "Team information",
+		"link1": "Grand Prize Pool",
+		"link2": "Little prize pool",
+		"link3": "View my statistics",
+		"tip1": "24 hours",
+		"tip2": "People"
+	},
+	"option": {
+		"opt1": "User level",
+		"opt2": "User team level",
+		"opt3": "Settled dividend income",
+		"opt4": "Referral reward",
+		"opt5": "Management award income",
+		"opt6": "Dividend cycle",
+		"opt7": "N times the move is still",
+		"opt8": "Unsettled projected earnings",
+		"opt9": "Number of unwithdrawn coins",
+
+		"opt10": "Total management award deadlock",
+		"opt11": "Total funds invested",
+		"opt12": "Number of one-level managers",
+		"opt13": "Number of two-level managers",
+		"opt14": "Number of three-level managers",
+		"opt15": "Number of four-level managers",
+
+		"opt16": "Number of one-level",
+		"opt17": "Number of two-level",
+		"opt18": "Number of three-level",
+		"opt19": "Number of four-level",
+		"opt20": "Number of five-level",
+		"opt21": "Number of six-level",
+		"opt22": "Total performance"
+	},
+	"button": {
+		"text1": "Withdraw income",
+		"text2": "Copy my invitation link",
+		"text3": "Send ETH",
+		"text4": "Settle",
+		"text5": "withdraw"
+	},
+	"record": {
+		"opt1": "Grand Prize Pool",
+		"opt2": "Little prize pool",
+		"opt3": "View my statistics"
+	},
+	"website": {
+		"title": "This isthe title of <span>the website</span>",
+		"describe": "This is the description of the website"
+	},
+
+	"alertMsg": {
+		"tip1": "Referrer address is empty!",
+		"tip2": "The referrer address cannot be the current wallet address!",
+		"tip3": "Please enter the amount of ETH to send!",
+		"tip4": "Please enter the legal amount of ETH!",
+		"tip5": "The amount of ETH sent is at least 1!",
+		"tip6": "There is no settleable ETH income!",
+		"tip7": "Insufficient ETH, the minimum withdrawal is 0.01!"
+	}
+
+}
